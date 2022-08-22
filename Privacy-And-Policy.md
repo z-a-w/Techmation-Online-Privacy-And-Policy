@@ -5,7 +5,7 @@ Techmation Online takes your privacy seriously. To better protect your privacy w
 
 ## Collection of Routine Information
 
-This Techmation Online track basic information about their users. This information includes, profile pictures, usernames, phone numbers but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific users to this app. The information is tracked for routine administration and maintenance purposes.
+This Techmation Online track basic information about their users. This information includes profile pictures, usernames, phone numbers, address, NRC numbers but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific users to this app. The information is tracked for routine administration and maintenance purposes.
 
 
 ## Cookies
