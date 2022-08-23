@@ -20,7 +20,7 @@ We have included links on this app for your use and reference. We are not respon
 
 ## Security
 
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While wetrive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure.
 
 
 ## Changes To This Privacy Policy
@@ -32,4 +32,4 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send us an email to zawhtetaunginfo@yahoo.com
+For any questions or concerns regarding the privacy policy, please send us an email to info@techmationmyanmar.com
